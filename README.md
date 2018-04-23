@@ -24,14 +24,14 @@ Cuando tengas corriendo la app, por lo general corre en el puerto 3000, entonces
 - Lo que necesitamos hacer es identificar si el string que se digita en el campo de texto tiene los paréntesis válidos o no, entonces los posibles valores que puede recibir el campo y el resultado que debería de obtener serían los siguientes
 
 
-|Valor   |  Resultado |
-|--------------------|
-|        |`It is Invalid` |
-|(       |`It is Invalid` |
-|)       |`It is Invalid` |
-|()      |`It is valid` |
-|(())     | `It is valid` |
-|((()()))   | `It is valid` |
+|    Valor   |  Resultado     |
+|------------|----------------|
+|            |`It is Invalid` |
+|(           |`It is Invalid` |
+|)           |`It is Invalid` |
+|()          |`It is valid`   |
+|(())        | `It is valid`  |
+|((()()))    | `It is valid`  |
 |(((1)(2)))  |  `It is valid` |
 
 
