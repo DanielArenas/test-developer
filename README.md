@@ -43,7 +43,7 @@ Cuando tengas corriendo la app, por lo general corre en el puerto 3000, entonces
 
 En el archivo src/index.js necesitamos agregar un nuevo componente que se llame `<Welcome/>`, lo que vamos a hacer es enviarle un parametro nombre al componente para que renderize el nombre que se le envia
 
-te puedes guar de esta documentacion [components-and-props](https://reactjs.org/docs/components-and-props.html)
+te puedes guiar de esta documentación [components-and-props](https://reactjs.org/docs/components-and-props.html)
 
 ## Entregar la prueba
 
