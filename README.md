@@ -19,7 +19,7 @@ una vez estamos listo simplemente es correr la app con `npm start` y listo ya te
 
 ## Realizar la prueba
 
-# Primer punto
+### Primer punto
 
 Cuando tengas corriendo la app, por lo general corre en el puerto 3000, entonces en tu navegador web digitar `http://localhost:3000/`, debería aparecer un título Parenthesis con un campo de texto y un label en la parte de abajo diciendo `It is Invalid` 
 
@@ -38,7 +38,7 @@ Cuando tengas corriendo la app, por lo general corre en el puerto 3000, entonces
 
 
 
-# Segundo punto
+### Segundo punto
 
 
 En el archivo src/index.js necesitamos agregar un nuevo componente que se llame `<Welcome/>`, lo que vamos a hacer es enviarle un parametro nombre al componente para que renderize el nombre que se le envia
