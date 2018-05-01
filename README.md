@@ -43,7 +43,7 @@ te puedes guiar de esta documentación [components-and-props](https://reactjs.or
 
 ## Entregar la prueba
 
-Una vez tengas el resultado de la app corriendo, pueden comprimir el proyecto y enviarlo al correo darenas@softdreams.co con el asunto 'prueba desarrollador' en el correo también debes incluir tu nombre, celuar tu disponibilidad horaria y tu aspiración salarial
+Una vez tengas el resultado de la app corriendo, pueden comprimir el proyecto (elimina la carpeta node_modules) y enviarlo al correo darenas@softdreams.co con el asunto 'prueba desarrollador' en el correo también debes incluir tu nombre, celuar tu disponibilidad horaria y tu aspiración salarial
 
 No siendo mas cualquier pregunta me la puedes enviar a darenas@softdreams.co sin ningún problema, estaremos atentos a cualquier novedad
 
