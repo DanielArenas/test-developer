@@ -9,7 +9,7 @@ La app funciona con react js, necesitamos tener instalado lo siguiente
 - [npm v 5.6.0](https://www.npmjs.com/get-npm)
 - [node js v 9.6.0](https://nodejs.org/es/download/)
 
-una vez tengamos esto listo entrar al folder de la app `test-developer-master` y corres `npm install` tambien podes consultar la documentacion en [docreact](https://github.com/facebook/react)
+una vez tengamos esto listo entrar al folder por la terminal (o consola) de la app `test-developer-master` y corres el comando `npm install` tambien podes consultar la documentacion en [docreact](https://github.com/facebook/react)
 
 una vez estamos listo simplemente es correr la app con `npm start` y listo ya tenemos la prueba corriendo
 
