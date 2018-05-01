@@ -1,10 +1,6 @@
 ## Clonar la app
 
-- La app esta en github, lo cual necesitaremos clonarla del repositorio, por esto necesitamos tener instalado git, para ellos puedes consultar el siguiente enlace [Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-
-- Una vez instalado git puedes correr el comando `git clone git@github.com:DanielArenas/test-developer.git` para tener el repositorio en tu computador
-
-- Accede a la carpeta que se te creó llamada `test-react`
+- La app esta en github, lo cual necesitaremos clonarla del repositorio, por esto simplemente entrando a este [link](https://github.com/DanielArenas/test-developer/archive/master.zip) puedes tener el codigo de la prueba. a continuacion solo debes de descomprimir el archivo y entrar a la carpeta `test-developer-master` para empezar la prueba
 
 ## Requisitos para correr la app
 
@@ -13,7 +9,7 @@ La app funciona con react js, necesitamos tener instalado lo siguiente
 - [npm v 5.6.0](https://www.npmjs.com/get-npm)
 - [node js v 9.6.0](https://nodejs.org/es/download/)
 
-una vez tengamos esto listo entrar al folder de la app (test-react) y corres `npm install` tambien podes consultar la documentacion en [docreact](https://github.com/facebook/react)
+una vez tengamos esto listo entrar al folder de la app `test-developer-master` y corres `npm install` tambien podes consultar la documentacion en [docreact](https://github.com/facebook/react)
 
 una vez estamos listo simplemente es correr la app con `npm start` y listo ya tenemos la prueba corriendo
 
