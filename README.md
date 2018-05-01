@@ -1,6 +1,6 @@
 ## Clonar la app
 
-- La app esta en github, lo cual necesitaremos clonarla del repositorio, por esto simplemente entrando a este [link](https://github.com/DanielArenas/test-developer/archive/master.zip) puedes tener el codigo de la prueba. a continuacion solo debes de descomprimir el archivo y entrar a la carpeta `test-developer-master` para empezar la prueba
+- La app esta en github, lo cual necesitaremos clonarla del repositorio, por esto simplemente entrando a este [link](https://github.com/DanielArenas/test-developer/archive/master.zip) te descargara el codigo de la prueba en tu computador en un archivo llamado `test-developer-master.zip`. a continuacion solo debes de descomprimir el archivo y entrar a la carpeta `test-developer-master` para empezar la prueba
 
 ## Requisitos para correr la app
 
